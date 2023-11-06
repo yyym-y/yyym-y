@@ -1,10 +1,8 @@
 
 
 
+<img src="front.png"/>
 
-<p style="color: black; font-weight: 900; font-size: 40px;">Hi 👋, I'm yyym</p>
-
-<p style="color: rgb(6, 239, 52); font-weight: 900; font-size: 70px;"> A SCNU's CS Student</p>
 
 ---
 
