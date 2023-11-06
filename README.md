@@ -73,5 +73,4 @@
 <div align="center"> 
     <img  style="width:300px; height:300px" src="https://i0.hdslb.com/bfs/article/2552e9d8c46b411c9794c44ab4035784f6e978c7.gif@1256w_1322h_!web-article-pic.webp" />
     <img  style="width:300px; height:300px" src="https://i0.hdslb.com/bfs/article/2552e9d8c46b411c9794c44ab4035784f6e978c7.gif@1256w_1322h_!web-article-pic.webp" />
-    <img  style="width:300px; height:300px" src="https://i0.hdslb.com/bfs/article/2552e9d8c46b411c9794c44ab4035784f6e978c7.gif@1256w_1322h_!web-article-pic.webp" />
 </div>
