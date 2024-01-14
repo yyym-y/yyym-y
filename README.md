@@ -27,15 +27,15 @@
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </div>
-
 <div align="center">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
         <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
         <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/php-%23E34F26.svg?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 </div>
+
 
 -----
 
@@ -47,6 +47,10 @@
 
 * **MIT 6.830**  : [yyym-y/MIT6.830: 手写MIT著名的关系型数据库 (github.com)](https://github.com/yyym-y/MIT6.830)
 * **CMU - CSAPP** :  [yyym-y/CMU-CSAPP: CMU深入理解计算机系统 lab (github.com)](https://github.com/yyym-y/CMU-CSAPP)
+* **handwriting-digit-identify** : [yyym-y/handwriting-digit-identify: 手写数字识别系统 (github.com)](https://github.com/yyym-y/handwriting-digit-identify)
+* **LiruOnlineCourses** : [yyym-y/LiruOnlineCourses: C++ 实现的简易登录系统(github.com)](https://github.com/yyym-y/LiruOnlineCourses)
+* **NimGameShowByQT** : [yyym-y/NimGameShowByQT: 使用C++和QT实现的Nim游戏变种 (github.com)](https://github.com/yyym-y/NimGameShowByQT)
+* **note** : [yyym-y/note: 学习时所有的笔记 (github.com)](https://github.com/yyym-y/note)
 
 
 ----
